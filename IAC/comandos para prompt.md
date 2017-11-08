@@ -4,7 +4,7 @@
 - cd nome_pasta: acessa a pasta
 -cd .. : volta um nivel de pasta
 - ls : lista as pastas e arquivos da pasta
-
+- CTRL - C : cancelar a operação corrente
 ----
 
 # do git
