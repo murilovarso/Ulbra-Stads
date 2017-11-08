@@ -1,4 +1,4 @@
-# comandos para prompt de comandos
+﻿# comandos para prompt de comandos
 
 - mkdir nome_pasta: cria uma pasta
 - cd nome_pasta: acessa a pasta
@@ -13,3 +13,5 @@
 - git commit -m "mensagem da etiqueta que vai na maleta"
 - git push origin master : envia a maleta para o remoto (github)
 - git status : verifica o estado do repositorio local
+- *git pull : pega as alterações no git origin (remoto)
+- *git checkout nome_da_branch : faz login na branch especificada
