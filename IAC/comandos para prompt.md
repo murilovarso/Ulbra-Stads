@@ -17,3 +17,12 @@
 - *git checkout nome_da_branch : faz login na branch especificada
 - *git merge* : mescla alterações de uma branch com outra.
   * deve fazer com o merge logado na branch que vai receber alterações.
+
+
+
+----
+
+o git é demais!
+lembrando que o git é uma ferramenta de versionamento de arquivos
+o github é um repositorio de projetos que utiliza o git.
+
